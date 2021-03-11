@@ -3,7 +3,10 @@ Analyzing air travel data
 
 Utilizing kaggle dataset: https://www.kaggle.com/terenceshin/covid19s-impact-on-airport-traffic
 
-Hoping to practice using plotly to map airport locations and flight metrics 
+Practicing using geopandas to create heatmaps. 
+
+Would like to make it interactive so monthly data is in one plot and user can adjust what month is shown. 
+
 
 
 **Work in progress**
